@@ -1,0 +1,23 @@
+export const COLORS = {
+  primary: '#0066CC',
+  secondary: '#34C759',
+  accent: '#FF9500',
+  success: '#34C759',
+  warning: '#FF9500',
+  error: '#FF3B30',
+  background: '#F2F2F7',
+  white: '#FFFFFF',
+  black: '#000000',
+  text: '#1C1C1E',
+  gray: {
+    100: '#F2F2F7',
+    200: '#E5E5EA',
+    300: '#D1D1D6',
+    400: '#C7C7CC',
+    500: '#8E8E93',
+    600: '#636366',
+    700: '#48484A',
+    800: '#3A3A3C',
+    900: '#2C2C2E',
+  },
+};
